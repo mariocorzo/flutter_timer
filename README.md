@@ -1,4 +1,4 @@
-```markdown
+
 # Flutter Timer App with BLoC
 
 This is a **Flutter Timer Application** that uses the **BLoC (Business Logic Component)** pattern for state management. The app provides a simple and elegant timer interface with functionality to start, pause, resume, and reset the timer. The code is structured for maintainability and follows clean architecture principles.
@@ -144,4 +144,3 @@ dependencies:
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-```
