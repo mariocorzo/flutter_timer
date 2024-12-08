@@ -44,7 +44,7 @@ lib/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/flutter_timer.git
+   git clone https://github.com/mariocorzo/flutter_timer
    cd flutter_timer
    ```
 
